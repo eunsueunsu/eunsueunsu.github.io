@@ -2,7 +2,7 @@
 markdown:         redcarpet
 highlighter:      pygments
 
-remote_theme : poole/hyde
+remote_theme : mmistakes/minimal-mistakes
 
 # Permalinks
 permalink:        pretty
